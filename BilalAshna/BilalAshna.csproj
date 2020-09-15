@@ -176,6 +176,8 @@
     <Content Include="Views\Resturants\Details.cshtml" />
     <Content Include="Views\Resturants\Edit.cshtml" />
     <Content Include="Views\Resturants\Index.cshtml" />
+    <Content Include="Views\Resturants\Contact.cshtml" />
+    <Content Include="Views\Resturants\About.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
